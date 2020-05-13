@@ -11,7 +11,7 @@ spec:
     - ReadWriteOnce
   persistentVolumeReclaimPolicy: Recycle
   nfs:
-    path: /tmp
+    path: /var/lib/pgsql/data
     server: 172.17.0.2
 ---
 apiVersion: v1
