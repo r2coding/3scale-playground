@@ -16,7 +16,7 @@ image::images/architecture-prod.png[Production Architecture]
 
 == Components version
 
-* Openshift 4.2
+* Openshift 4.3
 * 3Scale 2.8
 * Redis 5
 * Postgres 10
