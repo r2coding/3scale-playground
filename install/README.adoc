@@ -8,7 +8,7 @@ Operator management.
 
 == Staging architecture
 
-### WIP
+image::images/architecture-stagging.png[Stagging Architecture]
 
 == Production Architecture
 
