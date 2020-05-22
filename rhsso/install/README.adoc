@@ -1,1 +1,5 @@
+== Cross-Datacenter Replication Mode
+
+image::images/cross-dc-architecture.png[Arquitectura de Sistemas]
+
 ### WIP
