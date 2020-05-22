@@ -5,8 +5,6 @@ metadata:
 spec:
   wildcardDomain: apps.cluster-latam-df83.latam-df83.example.opentlc.com
   resourceRequirementsEnabled: false
-  highAvailability:
-    enabled: true
   system:
     fileStorage:
       persistentVolumeClaim:
